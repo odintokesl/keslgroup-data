@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "version": 2,
+    "lastUpdated": "2026-11-05T12:00:00+05:30"
+  },
+  "properties": [
+    {
+      "id": "prop_001",
+      "name": "Premium Corner Plot near Nayapalli",
+      "type": "residential",
+      "status": "available",
+      "location": "Plot No. 42, Jaydev Vihar, Nayapalli, Bhubaneswar, Odisha 751013",
+      "area": "3000 sqft",
+      "price": 8500000,
+      "owner": "Rajesh Kumar Mohanty",
+      "contact": "+91-9876543210",
+      "description": "East-facing corner plot in a prime residential locality. Clear title, boundary wall built, ready for immediate construction. Walking distance to Nayapalli market, schools and bus stop. VASTU compliant.",
+      "images": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-28T09:15:00+05:30"
+    },
+    {
+      "id": "prop_002",
+      "name": "3BHK Luxury Flat at Patia",
+      "type": "residential",
+      "status": "available",
+      "location": "Tower B, Green Heights, KIIT Road, Patia, Bhubaneswar, Odisha 751024",
+      "area": "1650 sqft",
+      "price": 9200000,
+      "owner": "Sunita Patnaik",
+      "contact": "+91-9123456789",
+      "description": "Spacious 3BHK on 8th floor with balcony overlooking the park. Modular kitchen, vitrified tiles, covered parking, 24x7 security, gym and clubhouse in society. Loan-ready with all approvals.",
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-30T11:20:00+05:30"
+    },
+    {
+      "id": "prop_003",
+      "name": "Modern 4BHK Villa with Garden",
+      "type": "residential",
+      "status": "reserved",
+      "location": "Palm Grove Villa, Sundarpada, Bhubaneswar, Odisha 751002",
+      "area": "4200 sqft",
+      "price": 24500000,
+      "owner": "Dr. Anil Behera",
+      "contact": "+91-9988776655",
+      "description": "Independent luxury villa with private garden, 4 bedrooms, 4 bathrooms, home theater, modular kitchen and 2-car parking. Gated community with 24x7 security. Vastu-compliant design with premium fittings throughout.",
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-25T14:00:00+05:30"
+    },
+    {
+      "id": "prop_004",
+      "name": "Duplex Row House at Chandrasekharpur",
+      "type": "residential",
+      "status": "available",
+      "location": "Block C, Sailashree Vihar, Chandrasekharpur, Bhubaneswar, Odisha 751021",
+      "area": "2800 sqft",
+      "price": 13800000,
+      "owner": "Srikant Das",
+      "contact": "+91-9090909090",
+      "description": "Brand new duplex row house in a gated society. Ground floor with living, kitchen and 1 bedroom; first floor with 3 bedrooms and terrace. Italian marble flooring, modular kitchen, covered parking for 2 cars. Ready to move in.",
+      "images": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-31T08:30:00+05:30"
+    },
+    {
+      "id": "prop_005",
+      "name": "Agricultural Land near Khurda Road",
+      "type": "agricultural",
+      "status": "available",
+      "location": "Khurda-Begunia Main Road, Khurda, Odisha 752055",
+      "area": "1.2 acres",
+      "price": 4200000,
+      "owner": "Bishnu Charan Sahu",
+      "contact": "+91-9437012345",
+      "description": "Fertile agricultural land with borewell, electricity connection and approach road. Suitable for farming or future residential development. Clear record of rights. Ideal investment near upcoming Khurda industrial corridor.",
+      "images": [
+        "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-20T10:00:00+05:30"
+    },
+    {
+      "id": "prop_006",
+      "name": "2BHK Sea-Facing Flat at Puri",
+      "type": "residential",
+      "status": "sold",
+      "location": "Marine Drive, Baliapanda, Puri, Odisha 752001",
+      "area": "1180 sqft",
+      "price": 6500000,
+      "owner": "Prakash Jena",
+      "contact": "+91-9333333333",
+      "description": "Beautiful 2BHK flat with sea view from living room and master bedroom. Society has swimming pool, gym and direct beach access. Perfect holiday home or rental investment. Fully furnished option available.",
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-10T15:30:00+05:30"
+    },
+    {
+      "id": "prop_007",
+      "name": "Luxury Villa at Tapoban Enclave",
+      "type": "residential",
+      "status": "available",
+      "location": "Tapoban Enclave, Sundarpada, Bhubaneswar, Odisha 751002",
+      "area": "3600 sqft",
+      "price": 19500000,
+      "owner": "Manoj Panigrahi",
+      "contact": "+91-9777777777",
+      "description": "Premium 4BHK villa in an exclusive gated community. Private swimming pool, landscaped garden, home automation, solar panels and rain-water harvesting. 3-car covered parking. Club membership included.",
+      "images": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-29T13:45:00+05:30"
+    },
+    {
+      "id": "prop_008",
+      "name": "Commercial Plot on Cuttack-Puri Road",
+      "type": "commercial",
+      "status": "reserved",
+      "location": "NH-203, Near Kalinga Hospital, Bhubaneswar, Odisha 751023",
+      "area": "4500 sqft",
+      "price": 22000000,
+      "owner": "Ashok Agarwal",
+      "contact": "+91-9876500001",
+      "description": "Prime commercial plot with highway frontage, 80 feet road access. Ideal for showroom, hotel, or commercial complex. All approvals in place for commercial construction. High-footfall area with excellent visibility.",
+      "images": [
+        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1448630360428-65456885c650?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-22T09:00:00+05:30"
+    },
+    {
+      "id": "prop_009",
+      "name": "4BHK Duplex at Jaydev Vihar",
+      "type": "residential",
+      "status": "sold",
+      "location": "Block A, Niladri Vihar, Jaydev Vihar, Bhubaneswar, Odisha 751013",
+      "area": "3200 sqft",
+      "price": 16800000,
+      "owner": "Subrata Bose",
+      "contact": "+91-9666666666",
+      "description": "Well-maintained duplex house on 30x40 plot. Ground floor with living room, kitchen and 1 bedroom; first floor with 3 bedrooms and terrace. Covered parking, borewell and municipal water. Prime locality near schools and hospital.",
+      "images": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-05T11:00:00+05:30"
+    },
+    {
+      "id": "prop_010",
+      "name": "Studio Flat at Saheed Nagar",
+      "type": "residential",
+      "status": "available",
+      "location": "Janpath Tower, Saheed Nagar, Bhubaneswar, Odisha 751007",
+      "area": "620 sqft",
+      "price": 3400000,
+      "owner": "Rekha Sahoo",
+      "contact": "+91-9555555555",
+      "description": "Compact 1BHK / studio flat ideal for bachelors, working professionals or as rental investment. Fully furnished option available. Building has lift, generator backup and 24x7 security. Walking distance to Janpath market and IT offices.",
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-11-01T16:20:00+05:30"
+    },
+    {
+      "id": "prop_011",
+      "name": "Commercial Land near Kalinga Nagar",
+      "type": "commercial",
+      "status": "available",
+      "location": "Kalinga Nagar, Ghatikia, Bhubaneswar, Odisha 751029",
+      "area": "2 acres",
+      "price": 18500000,
+      "owner": "Suresh Nayak",
+      "contact": "+91-9444444444",
+      "description": "Large commercial land parcel in a fast-developing business district. Suitable for IT campus, logistics hub or mixed-use development. Wide approach road, all utilities nearby. Clear title with approved commercial zoning.",
+      "images": [
+        "https://images.unsplash.com/photo-1448630360428-65456885c650?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-10-18T14:30:00+05:30"
+    },
+    {
+      "id": "prop_012",
+      "name": "Residential Plot at Tamando",
+      "type": "residential",
+      "status": "available",
+      "location": "Tamando, NH-16, Bhubaneswar, Odisha 752054",
+      "area": "2400 sqft",
+      "price": 5600000,
+      "owner": "Kiran Behera",
+      "contact": "+91-9333333344",
+      "description": "East-facing residential plot with clear boundary wall. Ready for construction. Close to schools, hospital, and NH-16 highway access. Ideal for family home or investment.",
+      "images": [
+        "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&h=800&fit=crop&auto=format",
+        "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1200&h=800&fit=crop&auto=format"
+      ],
+      "createdAt": "2026-11-02T09:00:00+05:30"
+    }
+  ]
+}
